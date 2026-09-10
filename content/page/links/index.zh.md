@@ -1,8 +1,8 @@
 ---
-title: "链接"
+title: "Ok"
 links:
-  - title: GitHub
-    description: GitHub 是世界上最大的软件开发平台。
+  - title: OK
+    description: OK 是世界上最大的软件开发平台。
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   - title: TypeScript
