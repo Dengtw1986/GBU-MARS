@@ -1,7 +1,7 @@
 ---
-title: "Ok"
+title: "链接"
 links:
-  - title: OK
+  - title: 链接
     description: OK 是世界上最大的软件开发平台。
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
