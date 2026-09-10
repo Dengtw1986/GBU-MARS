@@ -1,4 +1,4 @@
-baseURL                = "/"
+baseURL                = "https:/www.tianweideng.com"
 locale                 = "zh"
 title                  = "GBU-MARS Lab"
 # Theme i18n support
